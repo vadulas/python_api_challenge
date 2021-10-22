@@ -1,5 +1,5 @@
 
-# H3 The Jupyter notebooks has scripts to analyse the whether in various citites across the globe and picks the cities for vacationing based on the set preference of temperature, cloudiness and wind speed.
+**The Jupyter notebooks has scripts to analyse the whether in various citites across the globe and picks the cities for vacationing based on the set preference of temperature, cloudiness and wind speed.**
 
 **Following are the scripts**
 
